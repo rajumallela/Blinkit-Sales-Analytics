@@ -40,6 +40,4 @@ Excel (Pivot Tables, Charts, Data Cleaning)
 
 Power BI (Power Query, DAX, Data Modeling, Dashboard Design)
 
-📷 Dashboard Preview
 
-(Add screenshot here from /Images/dashboard.png)
